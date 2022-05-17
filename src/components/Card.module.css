@@ -1,0 +1,31 @@
+.container {
+    margin: 10px;
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: #ececec;
+    box-shadow: 5px 10px 10px rgba(189, 189, 189);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.container img {
+    width: 250px;
+    height: 280px;
+}
+
+.container h3 {
+    font-size: 20px;
+    margin: 10px 10%;
+    font-weight: lighter;
+    color: rgb(48, 45, 45);
+}
+
+.container p {
+    padding: 4px;
+    font-size: 16px;
+    margin: 15px 15%;
+    border-radius: 5px;
+    width: fit-content;
+    font-weight: lighter;
+    color: rgb(238, 229, 229);
+    background-color: rgb(17, 167, 3);
+}
